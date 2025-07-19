@@ -1,7 +1,12 @@
 name: Build On PR
 
+<<<<<<< HEAD
 On:
   pull_request:
+=======
+on:
+   pull_request:
+>>>>>>> 654aa9a4cf4d903793450f20d6377928987023b2
      branches:
       - master
       - main
