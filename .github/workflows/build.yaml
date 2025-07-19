@@ -1,6 +1,6 @@
 name: Build On PR
 
-On:
+on:
    pull_request:
      branches:
       - master
